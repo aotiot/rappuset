@@ -84,12 +84,12 @@ Portaat toteutetaan vahvalla ja yksinkertaisella tekniikalla: suorat reisilankut
 
 Näillä ohjeilla, materiaaleilla ja hyödyntämällä jo olemassa olevia puutavaroitasi saat aikaan erittäin jämäkän, turvallisen ja siistin portaikon!
 
-<img width="1605" height="1350" alt="image" src="https://github.com/user-attachments/assets/a09eac9b-9091-4433-8305-b3d66e87605c" />
+
 
 
 <img width="1705" height="1330" alt="image" src="https://github.com/user-attachments/assets/b2f0dc5d-c7a2-48fc-aaa9-d5943c5a4bf6" />
 <img width="1630" height="1275" alt="image" src="https://github.com/user-attachments/assets/d9a8280b-891f-458b-8b19-4d3c831acd1b" />
-
+<img width="1605" height="1350" alt="image" src="https://github.com/user-attachments/assets/a09eac9b-9091-4433-8305-b3d66e87605c" />
 
 
 alla openscad kuvaustiedosto
