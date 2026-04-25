@@ -1,0 +1,193 @@
+
+Terassin ja portaiden rakennusohje (900 x 1200 mm tasanne, korkeus 1200 mm)
+Portaat toteutetaan vahvalla ja yksinkertaisella tekniikalla: suorat reisilankut, joiden väliin askelmat asennetaan kulmaraudoilla. Otsalautoja ei tule, joten portaista tulee ilmavat.
+1. Materiaaliluettelo ja Budjetti
+Olemassa olevat materiaalisi (säästöä n. 67 €):
+2x4" (48x98 mm) ja 2x5" (48x123 mm): Näistä rakennetaan terassin kantava runko, tukitolpat, ristituet sekä kaiteiden käsijohteet.
+Ostettavat puutavarat (arvio n. 160 €):
+48x198 mm (2x8" lankku): 2 kpl n. 2,5 metrin lankkua (suorat reisilankut).
+28x145 mm (terassilauta): n. 18 metriä (kansi ja askelmat).
+28x45 mm (kaiderima): n. 30 metriä. (Vinkki: Jos sinulla on sirkkeli, halkaise nämä olemassa olevista 2x4" lankuista ja säästät n. 55 €!)
+Ostettavat raudat ja kiinnikkeet (arvio n. 65 €):
+12 kpl Vahvistettuja kulmarautoja (esim. 70x70x55 mm) askelmien asennukseen.
+1 rasia Ankkuriruuveja (C4-luokka) kulmarautojen kiinnitykseen.
+1 rasia Terassiruuveja (C4 tai A2, esim. 4.2x55 mm) laudoitukseen.
+1 rasia Runkoruuvit (C4, esim. 5.0x90 mm) rungon kasaukseen.
+Pala bitumikermia / kattohuopaa reisilankkujen alle maata vasten.
+2. Katkaisuluettelo (Mitä sahataan)
+Runko ja jalat (Oma 2x4" tai 2x5" puu):
+4 kpl x 1024 mm – Tukitolpat (Kokonaiskorkeus 1200 mm - kannen paksuus 28 mm - rungon paksuus 148 mm).
+2 kpl x 900 mm – Rungon etu- ja takapuut.
+3 kpl x 1104 mm – Rungon sivupäät ja keskipuu (näiden päälle tulee kansi).
+2 kpl x 1500 mm – Vinottaiset ristituet terassin alle X-muotoon.
+Kansi ja Askelmat (28x145 mm terassilauta):
+8 kpl x 900 mm – Tasanteen kansilaudat (asennetaan n. 4-5 mm raolla).
+12 kpl x 704 mm – Askelmalaudat. Tulee 2 kpl per askelma. (Leveys 800 mm - kaksi 48 mm reisilankkua = 704 mm).
+Reisilankut (48x198 mm lankku):
+2 kpl x n. 2400 mm – Portaikon sivulankut. Näitä ei loveta. Päädyt sahataan asennusvaiheessa viistoon (yläpää runkoa vasten, alapää maata vasten).
+Kaiteet:
+Käsijohteet (Oma 2x5" puu): 1200 mm (sivu), 900 mm (pääty) ja n. 2100 mm (porraskaide).
+n. 28 kpl x 950 mm – Pystyrimat.
+3. Vaiheittaiset Rakennusohjeet
+Vaihe 1: Rungon ja tolppien kokoaminen
+Kokoa 2x4" puista 900 x 1200 mm kokoinen kehikko. Sijoita kolmas 1104 mm puu tarkalleen kehikon keskelle tuomaan lisätukea kannelle.
+Kiinnitä 1024 mm korkeat tukitolpat kehikon sisäkulmiin 90 mm runkoruuveilla.
+Asenna X-muotoinen ristituki tolppien väliin terassin alle. Tämä on ehdottoman tärkeää, jottei 1,2 metriä korkea torni huoju.
+Vaihe 2: Kannen asennus
+Ruuvaa 900 mm pitkät terassilaudat (8 kpl) kiinni runkoon terassiruuveilla. Aloita takaa ja etene kohti portaita. Jätä lautojen väliin muutaman millin rako.
+Vaihe 3: Reisilankkujen asennus
+Aseta 48x198 mm lankku terassin etureunaa vasten siten, että lankun yläkulma on tasan terassin laudoitetun pinnan kanssa.
+Mittaa ja sahaa yläpää suoraksi runkoa vasten ja alapää vaateriin maata vasten.
+Laita lankun alapään ja maan/kiven väliin pala kattohuopaa eristämään kosteutta.
+Kiinnitä lankut tukevasti terassin runkoon siten, että niiden ulkoreunojen välinen kokonaisleveys on 800 mm.
+Vaihe 4: Askelmien kiinnitys (Kulmarautatekniikka)
+Mittaa kummankin reisilankun sisäpintaan askelmien tasot. Ensimmäinen askelma tulee 171,4 mm terassin pinnasta alaspäin, seuraava 171,4 mm siitä alaspäin jne. Etenemä (askelman syvyys) on 290 mm.
+Ruuvaa vahvistetut kulmaraudat merkintöjen kohdalle ankkuriruuveilla.
+Aseta kaksi 704 mm pitkää askelmalautaa kulmarautojen päälle per askelma (jätä lautojen väliin 5 mm rako).
+Ruuvaa askellaudat kiinni kulmarautoihin altapäin, jolloin ruuvinkannat jäävät piiloon säältä ja silmiltä.
+Vaihe 5: Kaiteiden asennus
+Asenna 2x5" lankusta käsijohteet 950 mm korkeuteen tasanteen sivuille ja päätyyn.
+Asenna portaan viisto käsijohde. Se alkaa tasanteen kaiteen kulmasta ja laskeutuu alaspäin samaan kulmaan reisilankkujen kanssa.
+Ruuvaa 28x45 mm pystyrimat kiinni. Asenna ne 140 mm jaolla (keskeltä keskelle), jolloin rimojen väliin jää turvallinen alle 100 mm rako. Portaikossa pystyrimojen alareunat voi ruuvata suoraan reisilankun ulkokylkeen kiinni.
+Näillä ohjeilla, materiaaleilla ja hyödyntämällä jo olemassa olevia puutavaroitasi saat aikaan erittäin jämäkän, turvallisen ja siistin portaikon!
+
+
+
+
+
+
+alla openscad kuvaustiedosto
+—-
+
+// --- PARAMETRIT ---
+eps = 0.05; 
+
+tasanne_leveys = 900; 
+tasanne_syvyys = 1200; 
+kokonaiskorkeus = 1200; 
+
+askelmien_maara = 6; 
+nousuja_yhteensa = 7; 
+askelma_nousu = kokonaiskorkeus / nousuja_yhteensa; // ~171.4 mm
+askelma_etenema = 290; 
+
+portaan_leveys = 800; 
+lauta_paksuus = 28; 
+runko_korkeus = 148; 
+reisilankku_paksuus = 48; 
+reisilankku_leveys = 198; 
+
+kaide_korkeus = 950; 
+kaide_paksuus = 50; // Käsijohteen paksuus/leveys
+rima_leveys = 45;
+rima_paksuus = 28;
+rima_jako = 140; // Rimojen väli keskeltä keskelle (jättää n. 95mm raon)
+
+tolppa_koko = 98; 
+
+// --- MALLINNUS ---
+
+// 1. TUKITOLPAT
+module tolppa() {
+    cube([tolppa_koko, tolppa_koko, kokonaiskorkeus - lauta_paksuus - runko_korkeus]);
+}
+translate([0, tasanne_syvyys - tolppa_koko, 0]) tolppa();
+translate([tasanne_leveys - tolppa_koko, tasanne_syvyys - tolppa_koko, 0]) tolppa();
+translate([0, 0, 0]) tolppa();
+translate([tasanne_leveys - tolppa_koko, 0, 0]) tolppa();
+
+// 2. RISTITUKI
+translate([0, 0, kokonaiskorkeus - runko_korkeus - lauta_paksuus - 50]) {
+    diag_pituus = sqrt(pow(tasanne_leveys, 2) + pow(tasanne_syvyys, 2));
+    angle = atan(tasanne_syvyys / tasanne_leveys);
+    rotate([0, 0, angle]) cube([diag_pituus, 28, 45]);
+    translate([tasanne_leveys, 0, 0]) rotate([0, 0, 180 - angle]) cube([diag_pituus, 28, 45]);
+}
+
+// 3. TERASSIN KANSI JA RUNKO
+translate([0, 0, kokonaiskorkeus - lauta_paksuus])
+    cube([tasanne_leveys, tasanne_syvyys, lauta_paksuus]);
+
+translate([0, 0, kokonaiskorkeus - runko_korkeus - lauta_paksuus])
+    difference() {
+        cube([tasanne_leveys, tasanne_syvyys, runko_korkeus]);
+        translate([reisilankku_paksuus, reisilankku_paksuus, -eps])
+            cube([tasanne_leveys - (2 * reisilankku_paksuus), tasanne_syvyys - (2 * reisilankku_paksuus), runko_korkeus + 2 * eps]);
+    }
+
+// 4. SUORAT REISILANKUT
+module suora_reisilankku() {
+    run = askelmien_maara * askelma_etenema;
+    rise = kokonaiskorkeus - askelma_nousu;
+    pituus = sqrt(pow(run, 2) + pow(rise, 2)) + 400;
+    angle = -atan(rise / run);
+    
+    rotate([angle, 0, 0])
+        translate([0, -200, -reisilankku_leveys + 30])
+            cube([reisilankku_paksuus, pituus, reisilankku_leveys]);
+}
+
+translate([(tasanne_leveys - portaan_leveys) / 2, tasanne_syvyys, kokonaiskorkeus])
+    suora_reisilankku();
+
+translate([(tasanne_leveys - portaan_leveys) / 2 + portaan_leveys - reisilankku_paksuus, tasanne_syvyys, kokonaiskorkeus])
+    suora_reisilankku();
+
+// 5. ASKELMAT (Vain tasot)
+for(i = [0 : askelmien_maara - 1]) {
+    z_pinta = kokonaiskorkeus - ((i + 1) * askelma_nousu);
+    y_pos = tasanne_syvyys + (i * askelma_etenema);
+    
+    translate([(tasanne_leveys - portaan_leveys) / 2 + reisilankku_paksuus, y_pos, z_pinta - lauta_paksuus])
+        cube([portaan_leveys - 2 * reisilankku_paksuus, askelma_etenema, lauta_paksuus]);
+}
+
+// 6. VIIMEISTELTY KAIDE
+
+// A. Tasanteen sivukaide (Vasen sivu)
+translate([0, 0, kokonaiskorkeus]) {
+    // Käsijohde (Yhdistyy päätyyn)
+    translate([0, 0, kaide_korkeus])
+        cube([kaide_paksuus, tasanne_syvyys, kaide_paksuus]);
+    
+    // Pystyrimat tasaisella jaolla
+    for(y = [rima_jako/2 : rima_jako : tasanne_syvyys - rima_leveys])
+        translate([(kaide_paksuus-rima_paksuus)/2, y, 0]) 
+            cube([rima_paksuus, rima_leveys, kaide_korkeus]);
+}
+
+// B. Tasanteen päätykaide (Takareuna)
+translate([0, 0, kokonaiskorkeus]) {
+    // Käsijohde
+    translate([0, 0, kaide_korkeus])
+        cube([tasanne_leveys, kaide_paksuus, kaide_paksuus]);
+        
+    // Pystyrimat
+    for(x = [kaide_paksuus + rima_jako : rima_jako : tasanne_leveys - rima_leveys])
+        translate([x, (kaide_paksuus-rima_paksuus)/2, 0]) 
+            cube([rima_leveys, rima_paksuus, kaide_korkeus]);
+}
+
+// C. Porraskaide (Vasen reuna)
+translate([(tasanne_leveys - portaan_leveys) / 2, tasanne_syvyys, 0]) {
+    run_v = askelmien_maara * askelma_etenema;
+    rise_v = kokonaiskorkeus - askelma_nousu;
+    pituus_v = sqrt(pow(run_v, 2) + pow(rise_v, 2)) + 150;
+    kulma_v = -atan(rise_v / run_v);
+    
+    // Käsijohde, joka alkaa tarkalleen tasanteen kulmasta
+    translate([0, 0, kokonaiskorkeus + kaide_korkeus]) 
+        rotate([kulma_v, 0, 0]) 
+            cube([kaide_paksuus, pituus_v, kaide_paksuus]);
+        
+    // Pystyrimat jokaiselle askelmalle
+    for(i = [0 : askelmien_maara - 1]) {
+        z_base = kokonaiskorkeus - ((i + 1) * askelma_nousu);
+        y_loc = i * askelma_etenema + 150;
+        
+        // Rima kiinnittyy askelmaan
+        translate([(kaide_paksuus-rima_paksuus)/2, y_loc, z_base]) 
+            cube([rima_paksuus, rima_leveys, kaide_korkeus]);
+    }
+}
+
